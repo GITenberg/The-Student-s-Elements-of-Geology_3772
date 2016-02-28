@@ -1,0 +1,24 @@
+_repo: The-Student-s-Elements-of-Geology_3772
+creator:
+  author:
+    agent_name: Lyell, Charles, Sir
+    birthdate: 1797
+    deathdate: 1875
+    gutenberg_agent_id: '1297'
+    url: http://www.gutenberg.org/2009/agents/1297
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Lyell
+description: E-text version of The Student's Elements of Geology.
+gutenberg_bookshelf: Geology
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3772'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QE'
+- !lcsh 'Geology'
+title: The Student's Elements of Geology
+url: http://www.gutenberg.org/ebooks/3772
