@@ -1,5 +1,8 @@
 _repo: The-Student-s-Elements-of-Geology_3772
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 3772-h/images/cover.jpg
 creator:
   author:
     agent_name: Lyell, Charles, Sir
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1297
     wikipedia: http://en.wikipedia.org/wiki/Charles_Lyell
 description: E-text version of The Student's Elements of Geology.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3772#The-Student-s-Elements-of-Geology
 gutenberg_bookshelf: Geology
 gutenberg_issued: '2003-02-01'
 gutenberg_type: Text
