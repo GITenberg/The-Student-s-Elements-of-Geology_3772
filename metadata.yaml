@@ -1,5 +1,5 @@
 _repo: The-Student-s-Elements-of-Geology_3772
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: archival
   image_path: 3772-h/images/cover.jpg
@@ -26,5 +26,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'QE'
 - !lcsh 'Geology'
+- GITenberg
 title: The Student's Elements of Geology
 url: http://www.gutenberg.org/ebooks/3772
